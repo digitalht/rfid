@@ -1,0 +1,16 @@
+{
+	"dependencies": {
+		"request": "2.81.0",
+		"hdb": "0.12.4",
+		"ws": "4.1.0"
+	},
+	"description": "",
+	"devDependencies": {},
+	"files": [],
+	"main": "srvRFIDEventAnalyzer.js",
+	"name": "srvRFIDEventAnalyzer",
+	"scripts": {
+		"start": "node srvRFIDEventAnalyzer.js"
+	},
+	"version": "1.1.2"
+}

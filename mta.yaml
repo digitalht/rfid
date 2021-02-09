@@ -1,0 +1,22 @@
+_schema-version: '2.0'
+ID: CFSHTID
+description: CFS HT ID - RFID Systems
+version: 1.0.5
+
+modules:
+
+
+ - name: srvForkliftSheperd
+   type: nodejs
+   path: srvForkliftSheperd
+
+
+ - name: srvRFIDEventWriter
+   type: nodejs
+   path: srvRFIDEventWriter
+
+
+ - name: srvRFIDEventAnalyzer
+   type: nodejs
+   path: srvRFIDEventAnalyzer
+

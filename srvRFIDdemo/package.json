@@ -1,0 +1,16 @@
+{
+	"dependencies": {
+		"request": "2.81.0",
+		"hdb": "0.12.4",
+		"ws": "4.1.0"
+	},
+	"description": "",
+	"devDependencies": {},
+	"files": [],
+	"main": "srvRFIDdemo.js",
+	"name": "srvRFIDdemo",
+	"scripts": {
+		"start": "node srvRFIDdemo.js"
+	},
+	"version": "0.0.1"
+}

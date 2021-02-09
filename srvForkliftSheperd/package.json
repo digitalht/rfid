@@ -1,0 +1,15 @@
+{
+	"dependencies": {
+		"hdb": "0.12.4",
+		"ping": "0.2.2"
+	},
+	"description": "",
+	"devDependencies": {},
+	"files": [],
+	"main": "forkMaster.js",
+	"name": "srvForkliftSheperd",
+	"scripts": {
+		"start": "node forkMaster.js"
+	},
+	"version": "1.1.1"
+}
